@@ -64,7 +64,7 @@ def decrypt_and_execute(encrypted_file: str, password: str):
     except Exception as e:
         if "InvalidToken" in str(type(e)):
             print(f"{Fore.RED}❌ Invalid access password!{Style.RESET_ALL}")
-            print(f"{Fore.YELLOW}Contact @jack0z on Telegram for the correct password.{Style.RESET_ALL}")
+            print(f"{Fore.YELLOW}Contact @newjacko on Telegram for the correct password.{Style.RESET_ALL}")
         else:
             print(f"{Fore.RED}❌ Bot initialization failed: {e}{Style.RESET_ALL}")
             print(f"{Fore.YELLOW}Please contact support if this issue persists.{Style.RESET_ALL}")
@@ -95,7 +95,7 @@ def verify_access():
                     print(f"{Fore.YELLOW}💬 Join https://t.me/Jack0zdrops for support{Style.RESET_ALL}")
                 else:
                     print(f"{Fore.RED}❌ Access denied. Maximum attempts exceeded.{Style.RESET_ALL}")
-                    print(f"{Fore.YELLOW}🔒 Security lockout activated. Contact @jack0z for assistance.{Style.RESET_ALL}")
+                    print(f"{Fore.YELLOW}🔒 Security lockout activated. Contact @newjacko for assistance.{Style.RESET_ALL}")
         except KeyboardInterrupt:
             print(f"\n{Fore.RED}❌ Access cancelled by user.{Style.RESET_ALL}")
             return None
@@ -183,7 +183,7 @@ def main():
         
     except Exception as e:
         print(f"{Fore.RED}❌ Critical error: {e}{Style.RESET_ALL}")
-        print(f"{Fore.YELLOW}📱 Contact @jack0z on Telegram for support{Style.RESET_ALL}")
+        print(f"{Fore.YELLOW}📱 Contact @newjacko on Telegram for support{Style.RESET_ALL}")
         input(f"\n{Fore.CYAN}Press Enter to exit...{Style.RESET_ALL}")
 
 if __name__ == "__main__":
