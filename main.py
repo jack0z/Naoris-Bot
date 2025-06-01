@@ -73,7 +73,7 @@ def decrypt_and_execute(encrypted_file: str, password: str):
 def verify_access():
     """Secure access control with password verification"""
     # SHA256 hash of the correct password for security
-    correct_hash = "79b490e88e74a9d87a98fd32cb5582ce3525ae36a2f148e96784c5708071fe25"  # newjack2024
+    correct_hash = "b6bc2fdcd0459c16a0b19d8d4e073fbe7a03d4140fcbc91f19db5012c1e1ff23"
     
     print(f"\n{Fore.YELLOW}🔐 NAORIS PROTOCOL BOT - SECURE ACCESS{Style.RESET_ALL}")
     print(f"{Fore.CYAN}Professional Grade Automation with Military Encryption{Style.RESET_ALL}")

@@ -6,14 +6,6 @@
     {
         "Address": "second_wallet_address_here",
         "deviceHash": "second_device_hash_here"
-    },
-    {
-        "Address": "0x53b7f271974b536f8a0a5bb8c2658b7ae423564a",
-        "deviceHash": "2566354515"
-    },
-
-    {
-        "Address": "0xa5120800b9027a7ec6046878faa1357da7ce4ab4",
-        "deviceHash": "1313303445"
     }
+    
 ]
