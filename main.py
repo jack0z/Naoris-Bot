@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """
 🚀 Naoris Protocol Bot - Automated Points Farming
-🔒 Secure Distribution with Military-Grade Encryption
 
 Created by: jack0z
 Telegram: https://t.me/Jack0zdrops
 Security: AES-128 + PBKDF2 + HMAC-SHA256
 
 Usage: python main.py
-Password: Contact @jack0z via Telegram for access
+Password: Contact @newjacko via Telegram for access
 """
 
 import os
