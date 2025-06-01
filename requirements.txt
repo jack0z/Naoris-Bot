@@ -1,0 +1,7 @@
+curl-cffi
+fake-useragent
+colorama
+pytz
+pyfiglet
+motor
+python-dotenv

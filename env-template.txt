@@ -1,0 +1,15 @@
+# MongoDB Configuration (Optional)
+# Copy this file to .env and configure your MongoDB connection
+# If you don't want MongoDB logging, simply don't create a .env file
+
+# MongoDB Atlas URI - Replace with your credentials
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+# Example format (replace with your actual credentials):
+# MONGODB_URI=mongodb+srv://newjack:Blubl3.1231337888@cluster0.eryzixd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+# To use this template:
+# 1. Copy this file and rename it to .env
+# 2. Replace the MongoDB URI with your actual credentials
+# 3. Save the file
+# 4. Run the bot - it will automatically detect and use the MongoDB connection 

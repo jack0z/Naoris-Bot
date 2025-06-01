@@ -1,0 +1,13 @@
+# Example proxy formats (replace with your actual proxies):
+# Format: ip:port:username:password
+# Supports: HTTP, HTTPS, SOCKS4, SOCKS5
+
+# HTTP Proxy Examples:
+192.168.1.100:8080:username:password
+proxy1.example.com:3128:user:pass
+
+# SOCKS5 Proxy Examples:  
+socks5://10.0.0.1:1080:username:password
+socks5://proxy2.example.com:1080:user:pass
+
+# Note: Remove this file content and add your real proxies before running the bot
