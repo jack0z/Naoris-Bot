@@ -21,11 +21,10 @@ Naoris Automation Bot
 
 ## Features
 - ✅ Auto Get Account Information
-- ✅ Auto Run With Monosans Proxy - Choose 1
-- ✅ Auto Run With Private Proxy - Choose 2  
-- ✅ Auto Run Without Proxy - Choose 3
+- ✅ Auto Run With Private Proxy - Choose 1
+- ✅ Auto Run Without Proxy (Not Recommended) - Choose 2
 - ✅ Auto Add to Whitelist
-- ✅ Auto Send Ping Every 25 Seconds
+- ✅ Auto Send Ping Every 10 Seconds
 - ✅ Multi Accounts With Threads
 
 **Note**: Points Not Increase? pending bruh. please be patient.
@@ -37,8 +36,8 @@ Make sure you have **Python3.9** or higher installed and **pip**.
 
 ### Clone The Repositories:
 ```bash
-git clone https://github.com/yourusername/naoris-bot.git
-cd naoris-bot
+git clone https://github.com/jack0z/Naoris-Bot.git
+cd Naoris-Bot
 ```
 
 ### Install Requirements:
@@ -84,6 +83,6 @@ python main.py #or python3 main.py
 
 ---
 
-**Password Required**: `jack0z2024`
+**Password Required**
 
 **⚡ Made by jack0z**
